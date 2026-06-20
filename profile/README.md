@@ -1,6 +1,6 @@
 # DRAGGON Lab
 
-### Developing, Researching, and Architecting Genetic and Genomic Networks
+### Developing, Researching, and Architecting Genetic and GenOmic Networks
 
 **We build biological software for a world that needs smarter, safer, and more sustainable technologies.**
 
